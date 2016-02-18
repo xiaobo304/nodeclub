@@ -3,7 +3,7 @@
   "version": "2.1.1",
   "private": true,
   "main": "app.js",
-  "description": "A Node.js bbs using MongoDB",
+  "description": "A Node.js bbs using MongoDB 小波 test",
   "repository": "https://github.com/cnodejs/nodeclub",
   "engines": {
     "node": "0.12.x"
